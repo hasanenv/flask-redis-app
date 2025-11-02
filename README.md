@@ -71,6 +71,7 @@ This variable tells Flask the hostname of the Redis service within the Docker ne
 ---
 
 ## Project Structure
+```
 flask-redis-app/  
 │  
 ├── app.py – Flask application  
@@ -78,3 +79,4 @@ flask-redis-app/
 ├── docker-compose.yml – Multi-container setup  
 ├── requirements.txt – Python dependencies  
 └── README.md  
+```
