@@ -4,7 +4,8 @@
 [![Flask](https://img.shields.io/badge/Framework-Flask-black?logo=flask)](https://flask.palletsprojects.com/)
 [![Redis](https://img.shields.io/badge/Database-Redis-red?logo=redis)](https://redis.io/)
 
-![Demo](assets/demo.gif)
+## Demo GIF:
+![Demo (GIF)](assets/demo.gif)
 
 A containerised web app built with Flask and Redis using Docker Compose. The Flask service connects to a Redis database to count and store page visits.
 
